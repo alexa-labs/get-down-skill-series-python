@@ -7,4 +7,4 @@
 ### Resources
 Available after the show aires on the date above.
 
-* [Situational Design Template(https://github.com/alexa-labs/get-down-skill-series-python/blob/master/Episode-1/Situational%20Design_When%20and%20Then_Template.xd)] (Need Adobe XD (Free) - Get it [here](https://www.adobe.com/products/xd.html))
+* [Situational Design Template](https://github.com/alexa-labs/get-down-skill-series-python/blob/master/Episode-1/Situational%20Design_When%20and%20Then_Template.xd)] (Need Adobe XD (Free) - Get it [here](https://www.adobe.com/products/xd.html))
