@@ -1,0 +1,64 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "get down",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "SetFavoriteColorIntent",
+                    "slots": [
+                        {
+                            "name": "color_name",
+                            "type": "AMAZON.Color"
+                        }
+                    ],
+                    "samples": [
+                        "My favorite color is {color_name}"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetFavoriteColorIntent",
+                    "slots": [],
+                    "samples": [
+                        "what's my favorite color"
+                    ]
+                },
+                {
+                    "name": "AMAZON.YesIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NoIntent",
+                    "samples": []
+                },
+                {
+                    "name": "DoneIntent",
+                    "slots": [],
+                    "samples": [
+                        "done with the squats",
+                        "I did it today",
+                        "I did the squats",
+                        "done",
+                        "I am done"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
